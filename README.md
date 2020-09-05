@@ -8,3 +8,7 @@ Jim Hu, Kerry Hu, Mahitha Kotipalli, Malin Ortenblad, Niranjana Moleyar
 
 Affiliation: IEOR Department, Columbia University
 
+## Mentors/Project-Managers
+Prof. Michael Robbins (Columbia University)
+Nicole Soder (TA; Project Manager)
+
