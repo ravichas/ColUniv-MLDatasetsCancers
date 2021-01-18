@@ -12,4 +12,4 @@ Affiliation: Columbia University
 * Prof. Michael Robbins (Columbia University)
 * Nicole Soder (TA; Project Manager; Columbia University)
 * Naomi Ohashi, PMP (Project Manager; FNLCR)
-* S. Ravichandran, Ph.D
+* S. Ravichandran, Ph.D (Mentor; FNLCR)
